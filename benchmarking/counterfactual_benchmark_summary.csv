@@ -1,0 +1,3 @@
+method,attempted_cases,n_counterfactuals_found,coverage_on_selected_cases,n_valid_counterfactuals,validity_rate_among_found,mean_original_pd,mean_counterfactual_pd,mean_pd_reduction,mean_l0_changed_features,median_l0_changed_features,mean_l1_normalized,median_l1_normalized,mean_l2_normalized,median_l2_normalized,max_fixed_features_changed
+Alibi,12,6,0.5,6,1.0,0.7001777655462744,0.6794648173276748,0.02071294821859948,1.0,1.0,2.329300108742358e-05,1.3737158538692929e-05,2.3247128007751886e-05,1.3726363986252053e-05,0
+DiCE,7,4,0.5714285714285714,4,1.0,0.7002133914583564,0.4903508511602739,0.2098625402980825,3.75,3.5,1.1723951770696028,1.0228438699360825,0.7839840628297814,0.6136335374219124,0

@@ -1,0 +1,20 @@
+variable,dropout_loss,label
+_full_model_,0.22536351340102753,Final LightGBM model
+NAME_INCOME_TYPE,0.22605403611500785,Final LightGBM model
+external_sources_std,0.2269256068756207,Final LightGBM model
+CODE_GENDER,0.22767666061942124,Final LightGBM model
+previous_mean_credit_to_goods_ratio,0.22828385581232508,Final LightGBM model
+bureau_mean_days_since_credit,0.22834702583750116,Final LightGBM model
+previous_refusal_rate,0.22866447367219048,Final LightGBM model
+bureau_debt_to_credit_ratio,0.22873732817677395,Final LightGBM model
+DAYS_LAST_PHONE_CHANGE,0.22966420871104506,Final LightGBM model
+previous_mean_total_repayment_to_credit_ratio,0.22976716884783546,Final LightGBM model
+NAME_EDUCATION_TYPE,0.2299564176843917,Final LightGBM model
+age_years,0.2302957791292623,Final LightGBM model
+credit_card_mean_drawings_to_limit,0.23084140070266784,Final LightGBM model
+credit_to_goods_ratio,0.23109518254989414,Final LightGBM model
+employment_years,0.23167310609502328,Final LightGBM model
+installment_late_payment_share,0.23268489035929507,Final LightGBM model
+credit_to_annuity_ratio,0.24737926208901823,Final LightGBM model
+external_sources_mean,0.3348972704287855,Final LightGBM model
+_baseline_,0.4987371974771719,Final LightGBM model
